@@ -1,12 +1,12 @@
-Ship Detection Using SAR Imagery \
+Ship Detection Using SAR Imagery 
 
 Group Members: \
 Nithin Peter        JEC17CS075 \
 Jevin Pauly         JEC17CS075 \
 Tessa Shaiju        JEC17CS102 
 
-Guide: 
-Anil Antony \
+Guide: \
+Anil Antony 
 
 Abstract \
 In this project we present an innovative way to detect ships in the ocean using SAR image. Detection of ships is complicated, especially under unfavourable conditions, such as during night-time or on cloudy days. Locations of ships in the ocean can be useful in many situations like finding route,search & rescue, surveillance, fisheries management, etc. 
